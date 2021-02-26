@@ -1,6 +1,6 @@
 # Open this script in RStudio and click "Source" to start report generation process.
 
-# About: https://cneskey.github.io/unsuR/
+# About: https://SkiDogofVail.github.io/Cyber-Risk-Assessment/
 
 library(pacman)
 library(rstudioapi)
